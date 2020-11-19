@@ -51,11 +51,7 @@ body {
 }
 
 .photo {
-  size: 70px;
-  margin-left: 95px;
-  margin-bottom: 20px;
-}
-
-.one-photo {
+  width: 20%;
   margin-left: 120px;
+  margin-bottom: 20px;
 }
